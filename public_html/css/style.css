@@ -1,0 +1,58 @@
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 0px;
+}
+
+table.table {
+    font-size: 14px;
+}
+
+.input-group {
+    position: relative;
+    display: 0;
+    border-collapse: separate;
+}
+
+.scb {
+    height: 70% !important;
+    overflow-y: auto;
+}​
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.ubody {
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    color: #666;
+}
+
+.lead {
+    font-size: 16px;
+}
+
+blockquote {
+    padding: 0.5px 5px;
+    margin: -5px 0px -5px;
+    font-size: 15px;
+    border-left: 1px solid #2796F4;
+}
+
+blockquote footer, blockquote small, blockquote .small {
+    display: block;
+    font-size: 80%;
+    line-height: 1.1;
+    color: rgba(35, 34, 34, 0.64);
+}
+
+textarea, textarea.form-control, input.form-control, input[type="text"], input[type="password"], input[type="email"], input[type="number"], .form-control[type="text"], .form-control[type="password"], .form-control[type="email"], .form-control[type="tel"], .form-control[contenteditable] {
+    padding: 0px;
+    border: medium none;
+    border-radius: 0px;
+    box-shadow: 500px -1px 0px rgba(221, 221, 221, 0) inset;
+    font-size: 15px;
+}
